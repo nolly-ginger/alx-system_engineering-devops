@@ -1,2 +1,2 @@
 #!/bin/bash -x
-#!/bin/bash -x /tmp/correction/7167554862809864399364190972954411059484_5/205/402846/0x00-shell_basics
+#!/bin/bash -x /alx-system_engineering-devops/0x00-shell_basics bar baz
