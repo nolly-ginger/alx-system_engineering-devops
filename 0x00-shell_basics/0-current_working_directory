@@ -1,1 +1,2 @@
-#!/bin/bash pwd $ wc -l file
+#!/bin/bash pwd 
+$ wc -l file
