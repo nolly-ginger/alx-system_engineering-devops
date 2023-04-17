@@ -1,2 +1,2 @@
 #!/bin/bash
-cat list | uniq -d 
+cat list | uniq -d 13-unique 
