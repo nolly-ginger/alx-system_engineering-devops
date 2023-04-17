@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -names ".gif" -type f | wc -l
