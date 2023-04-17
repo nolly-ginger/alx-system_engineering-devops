@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -names ".gif" -type f | wc -l
+find . -names "*.gif" -type f | wc -l
