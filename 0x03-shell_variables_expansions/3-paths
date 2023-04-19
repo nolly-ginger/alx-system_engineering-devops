@@ -1,2 +1,2 @@
 #!/bin/bash
-printf number -d $PATH
+find -mindeth 1 -type d $PATH
