@@ -1,2 +1,2 @@
 #!/bin/bash
-find -mindeth 1 -type d $PATH
+echo $PATH -type d -print | wc -l
