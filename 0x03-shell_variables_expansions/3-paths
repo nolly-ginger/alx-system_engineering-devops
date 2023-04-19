@@ -1,2 +1,2 @@
 #!/bin/bash
-printf num -d $PATH
+printf number -d $PATH
